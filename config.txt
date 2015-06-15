@@ -1,0 +1,12 @@
+{
+  "header":{
+    "title":"André Berlemont",
+    "charset":"UTF-8",
+    "description":"Website/Portfolio/Blog of André Berlemont",
+    "css":["http://fonts.googleapis.com/css?family=Open+Sans","http://fonts.googleapis.com/css?family=Oswald:400,700","css-index.css"],
+    "js":["http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js","js-index.js"],
+    "googleAnalytics":"UA-35938177-1"
+  },
+  "categories":["code","olr","littlethings","epicbros","notes","misc","random"],
+  "fixed":["about"]
+}
